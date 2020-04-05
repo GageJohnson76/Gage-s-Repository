@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"ConcordanceDataElement"},{"p":"<Unnamed>","l":"ConcordanceDataManager"},{"p":"<Unnamed>","l":"ConcordanceDataStructure"}]
